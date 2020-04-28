@@ -3379,7 +3379,7 @@ input:focus {
 
 /* line 43, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_subscribe_part.scss */
 .subscribe_part .subscribe_form ::placeholder {
-  color: #94bf47;
+  color: #fff;
 }
 
 /***************** product list css *******************/
