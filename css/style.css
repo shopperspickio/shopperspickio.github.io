@@ -8537,6 +8537,7 @@ h6 {
 /**********************footer part css*******************/
 /* line 3, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_footer.scss */
 .footer_part .footer_iner {
+  background-color: #414141;
   padding: 120px 0;
 }
 
@@ -8646,7 +8647,7 @@ h6 {
 
 /* line 69, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_footer.scss */
 .footer_part .copyright_part {
-  background-color: #F4EDF2;
+  background-color: #414141;
   padding: 30px 0px;
 }
 
@@ -8666,7 +8667,7 @@ h6 {
 
 /* line 80, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_footer.scss */
 .footer_part .copyright_part .copyright_text p a {
-  color: #6370c7;
+  color: #fff;
 }
 
 @media (max-width: 991px) {
@@ -8678,7 +8679,7 @@ h6 {
 
 /* line 89, /Applications/MAMP/htdocs/old/palash/cl/shop_html/sass/_footer.scss */
 .footer_part .copyright_part .copyright_link a {
-  color: #6370c7;
+  color: #fff;
   margin-left: 40px;
 }
 
@@ -8698,4 +8699,8 @@ h6 {
 
 .footer-logo-image{
   width: 30%;
+}
+
+.footer-text{
+  color: #fff;
 }
